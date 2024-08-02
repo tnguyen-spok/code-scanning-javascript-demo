@@ -6,6 +6,8 @@ Welcome to the Code Scanning JavaScript Tutorial! This tutorial will take you th
 
 Code scanning is a feature that you use to analyze the code in a GitHub repository to find security vulnerabilities and coding errors. Any problems identified by the analysis are shown in GitHub.
 
+
+fiweofgbewfb
 You can use code scanning with CodeQL, a semantic code analysis engine. CodeQL treats code as data, allowing you to find potential vulnerabilities in your code with greater confidence than traditional static analyzers.
 
 ng in order to search for vulnerabilities within your code. 
